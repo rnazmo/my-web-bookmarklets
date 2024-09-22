@@ -4,7 +4,7 @@
 
 ### Pending
 
-- [ ] writing(mypubte): Draft Discussion "mybookmarklets：ブックマークレットのメンテナンス性を上げたい"
+- [ ] ブックマークレットのメンテナンス性を上げたい"
     - オンラインから取り込むようにする？
     - テスト追加したい？
 - [ ] GitLab から GitHub への移動を検討
