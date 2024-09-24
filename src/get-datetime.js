@@ -26,7 +26,7 @@ javascript: (function () {
   const D = padLeft(date.getDate());
   const h = padLeft(date.getHours());
   const m = padLeft(date.getMinutes());
-  const txtNow = Y + "-" + M + "-" + D + "-" + h + "-" + m;
+  const txtNow = Y + "-" + M + "-" + D + "T" + h + ":" + m;
 
   navigator.clipboard.writeText(txtNow).then(function () {
       alert('Get the current datetime and copied it to the clipboard.\n' + txtNow);
