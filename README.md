@@ -1,5 +1,10 @@
 # my-web-bookmarklets
 
+## Purpose
+
+- for my own use
+- learn about bookmarklet
+
 ## TODO
 
 ### Pending
